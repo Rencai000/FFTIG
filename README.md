@@ -1,4 +1,4 @@
-![Logo](https://github.com/hanzvibes/InstaJS/blob/main/assets/banner3_1.png)
+![Logo](https://cmgventures.com/wp-content/uploads/2018/04/instagram-banner-01.png)
 
 # InstaJS v3.1
 
@@ -6,7 +6,7 @@ It runs as a command line interface on your devices and will interact to Instagr
 
 The bot will remember every user it has followed, liked & comments so if you quit the app and open it later, it will still clean up by remember users that it previously already interacted.
 
-## 🌟 Features
+## 🌟 FREE 4 ALL
 
 - View all stories from feeds🔥
 - Unfollow Inactive user 🔥
@@ -28,34 +28,15 @@ The bot will remember every user it has followed, liked & comments so if you qui
 - Unfollow all following
 - Unfollow account who not following you back
 
-## Changelog v3.1
-
-- Auto View Stories
-- Auto Unfollow Inactive user
-- Auto Unfollow user if they haven't any post 
-- Auto Like and Comment on feeds
-- Auto Like all posts from location (Like only)
-- Auto Comment all posts from location (Comment only)
-- Auto Follow all people from location (Follow only)
-- Auto-set and change delays to simulate human behavior
-- Automatically save logs in the './logs/' folder
-- Change login method using 'dotenv'
-
-## 📂Requirements
-
-Make sure you have NodeJS installed on your device
-## 👨‍💻 Installation
-
 Clone this Repository 
 ```bash
-git clone https://github.com/hanzvibes/InstaJS
+git clone https://github.com/Rencai000/FFTIG
 ```
 
-Go to InstaJS Folder
 ```bash
 cd InstaJS
 ```
-Install Package Modules
+
 ```bash
 npm install
 ```
@@ -71,22 +52,6 @@ Edit .env file
 INSTAGRAM_USERNAME=your_username
 INSTAGRAM_PASSWORD=your_password
 ```
-
-## ⏳Optimizations
-
-Auto-set and change delays to simulate human behavior
-## 📱Screenshots
-
-![App Screenshot](https://raw.githubusercontent.com/hanzvibes/InstaJS/main/assets/dashboard.png)
-
-
-## Feedback
-
-If you have any feedback, please reach out to me at 🕵️
-- 🌐 [Instagram](https://instagram.com/hanzvibes)
-- 🌐 [Telegram](https://t.me/InstaJS_Official)
-
-
 ## Credits
 
 - [officialputuid](https://github.com/officialputuid/toolsig)
