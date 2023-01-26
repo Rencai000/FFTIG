@@ -1,6 +1,6 @@
 ![Logo](https://cmgventures.com/wp-content/uploads/2018/04/instagram-banner-01.png)
 
-# FOLLOW FOLLOWERS TARGET Using NodeJs
+## Instagram Tools Using NodeJS
 
 It runs as a command line interface on your devices and will interact to Instagram users (configurable). You choose a list of Instagram users whose market you want to target. The bot navigates to each of these, finds the last people and then like, follow & comments each of them (also configurable), it will interact to target users. Simple and effective.
 
