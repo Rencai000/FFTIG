@@ -1,12 +1,12 @@
 ![Logo](https://cmgventures.com/wp-content/uploads/2018/04/instagram-banner-01.png)
 
-# InstaJS v3.1
+# FOLLOW FOLLOWERS TARGET Using NodeJs
 
 It runs as a command line interface on your devices and will interact to Instagram users (configurable). You choose a list of Instagram users whose market you want to target. The bot navigates to each of these, finds the last people and then like, follow & comments each of them (also configurable), it will interact to target users. Simple and effective.
 
 The bot will remember every user it has followed, liked & comments so if you quit the app and open it later, it will still clean up by remember users that it previously already interacted.
 
-## 🌟 FREE 4 ALL
+## 🌟 THIS TOOLS FREE TO USE
 
 - View all stories from feeds🔥
 - Unfollow Inactive user 🔥
@@ -28,7 +28,7 @@ The bot will remember every user it has followed, liked & comments so if you qui
 - Unfollow all following
 - Unfollow account who not following you back
 
-Clone this Repository 
+## Clone this Repository 
 ```bash
 git clone https://github.com/Rencai000/FFTIG
 ```
